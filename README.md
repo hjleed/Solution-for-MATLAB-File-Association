@@ -2,6 +2,7 @@
 It creates a Windows registry file that solves an issue with MATLAB file associations in Windows, e.g., that m-files doesn't open up in MATLAB or opens up in a new instance.  
 
 This program is also to add missing MATLAB shortcuts to the Windows desktop and start menu and a small Windows batch file to start MATLAB.
+
 ![alt text](https://github.com/hjleed/Solution-for-MATLAB-File-Association/blob/main/download.png)
 # How to run it
 Follow these steps:
