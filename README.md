@@ -6,11 +6,14 @@ This program is also to add missing MATLAB shortcuts to the Windows desktop and 
 ![alt text](https://github.com/hjleed/Solution-for-MATLAB-File-Association/blob/main/download.png)
 # How to run it
 Follow these steps:
-1.Download the file.
-2. Extract it.
-3. Run the associateFiles.m file using MATLAB.
-4. Then you'll get a MatlabFileAssocFix.reg
-5. Run the MatlabFileAssocFix.reg file & press yes.
-6. Run matlabshortcuts.bat file
-7. Run runmatlab.bat file>
+<ul>
+  <li>1. Download the file.</li>
+  <li>2. Extract it.</li>
+  <li>3. Run the associateFiles.m file using MATLAB.</li>
+  <li>4. Then you'll get a MatlabFileAssocFix.reg</li>
+  <li>5. Run the MatlabFileAssocFix.reg file & press yes.</li>
+  <li>6. Run matlabshortcuts.bat file</li>
+  <li>7. Run runmatlab.bat file></li>
+</ul>
+
 Done, now your file association problem should be fixed.
